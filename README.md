@@ -2,7 +2,7 @@
 > Greetings, welcome to my first blog project with react.
 > Live demo [here](https://jtavernier-blog-react.vercel.app/).
 
-## Sommaire
+## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
