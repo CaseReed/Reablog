@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+# Reablog
+> Greetings, welcome to my first blog project with react.
+> Live demo [here](https://jtavernier-blog-react.vercel.app/).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Sommaire
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Screenshots](#screenshots)
+* [Setup](#setup)
+* [Project Status](#project-status)
+* [Room for Improvement](#room-for-improvement)
+* [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
+<!-- * [License](#license) -->
 
-## Available Scripts
 
-In the project directory, you can run:
+## General Information
+- This project was created with react, it's simple exercise and i wanted to try take fun on this project and discover this awesome framework.
+- The purpose of this project was to reach a stage of my learning, but also a challenge and to succeed in applying all that I could learn.
+- The challenge on this project, it's was succeeded to display a lot of articles dynamically and to be able to write an or many articles.
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Technologies Used
+- React JS - v17.0.2
+- Redux - v4.1.2
+- React Router DOM - v6.0.2
+- Uuid - v8.3.2
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `yarn test`
+## Features
+List the ready features here:
+- Display many articles dynamically
+- Write an or many articles
+- Use dispatch and transfer data in link with react-router-dom.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+## Screenshots
+None
+<!-- If you have screenshots you'd like to share, include them here. -->
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Setup
+- Clone repository
+- Type 'yarn install' or 'npm install'
+- To start project with local server, type 'yarn start' or 'npm run start'
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+## Project Status
+Project is: _in progress_
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Room for Improvement
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Room for improvement:
+- [ ] New design more cool
+- [ ] Add animations
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+To do:
+- [ ] Persistent data for articles (actually, if you refresh, data doesn't rest..)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Acknowledgements
+- This project was based on [this tutorial](https://www.udemy.com/course/react-formation-complete/).
+- Many thanks to [Enzo Ustariz](https://www.linkedin.com/in/enzo-ustariz-9b517012a/) for this very clear course and a very pleasant and effective pedagogy.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contact
+Template created by [@flynerdpl](https://www.flynerd.pl/).
